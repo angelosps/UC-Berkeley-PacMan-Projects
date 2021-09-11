@@ -1,3 +1,1 @@
-## README
-
-Auto-grader score: 25/25
+Autograder score: 25/25
