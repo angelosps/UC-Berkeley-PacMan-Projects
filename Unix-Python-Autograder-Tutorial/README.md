@@ -1,2 +1,1 @@
-## README
-Auto-grader score: 3/3
+Autograder score: 3/3
